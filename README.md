@@ -1,1 +1,0 @@
-# RenovateBot-config
